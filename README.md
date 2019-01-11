@@ -1,5 +1,5 @@
 # CPSC 441 Tweet-Encoder
-Assignment for CPSC 441.
+Assignment for CPSC 441 - Computer Networks.
 
 The assignment was to create a server and a client that can connect to each other via TCP or UDP. Once connected, the client can send a message and the server will reply with an encoded version of the message (in hex). If the client sends an encoded message to the server, the server will decode the message and send back the decoded message.
 
